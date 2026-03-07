@@ -1,0 +1,10 @@
+{
+  "domain": "example.com",
+  "price": "$5,000",
+  "tagline": "Short, memorable, and ready to brand.",
+  "description": "A clean, versatile domain that builds immediate trust with users. Short domains like this are easy to promote across any channel, rank well in organic search, and command premium resale value. Ideal for a SaaS product, agency, or digital brand looking to establish a lasting online presence.",
+  "web3forms_key": "YOUR_WEB3FORMS_KEY",
+  "turnstile_site_key": "YOUR_TURNSTILE_SITE_KEY",
+  "contact_email": "hello@youremail.com",
+  "redirect_url": "https://example.com?success=true"
+}
